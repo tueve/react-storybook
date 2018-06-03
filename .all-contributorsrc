@@ -1,0 +1,9 @@
+{
+  "projectName": "react-storybook",
+  "projectOwner": "tuevu",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+}
